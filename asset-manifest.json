@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflex-CLONE-2024/static/css/main.b61a21da.css",
+    "main.js": "/Netflex-CLONE-2024/static/js/main.feb328de.js",
+    "static/media/NetflixLogo.png": "/Netflex-CLONE-2024/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/Netflex-CLONE-2024/index.html",
+    "main.b61a21da.css.map": "/Netflex-CLONE-2024/static/css/main.b61a21da.css.map",
+    "main.feb328de.js.map": "/Netflex-CLONE-2024/static/js/main.feb328de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61a21da.css",
+    "static/js/main.feb328de.js"
+  ]
+}
